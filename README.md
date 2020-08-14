@@ -14,4 +14,4 @@ The slides from my talk are at [talk/talk.pdf](talk/talk.pdf).
 ----
 
 
-Everything written in markdown using [pandoc](https://pandoc.org/), the tool that allows you to write LaTeX without wanting to kill yourself.
+Everything written in markdown using [pandoc](https://pandoc.org/), the tool that allows you to write LaTeX without banging your head against the wall as much.
